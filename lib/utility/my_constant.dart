@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class MyConstant {
+  static String domain = 'https://40793c92d28d.ngrok.io';
   static String routeHome = '/home';
   static String routeAuthen = '/authen';
 
